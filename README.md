@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2>Multi select like WhatsApp in Android</h2>
 
 Example App to show how to add multi-select feature in Recyclerview
@@ -17,3 +18,7 @@ For more information, check out my detailed guide here : http://droidmentor.com/
 
 
 
+=======
+# androidCode
+Experimental Android Code
+>>>>>>> 904e5fe18bc7cbff050ef291e12e3bd09791c093
